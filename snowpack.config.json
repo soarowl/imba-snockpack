@@ -1,0 +1,14 @@
+{
+  "mount": {
+    "src": "/",
+    "public": "/"
+  },
+  "plugins": ["imba-snowpack"],
+  "installOptions": {
+    "sourceMap": true
+  },
+  "devOptions": {
+    "open": "default",
+    "bundle": false
+  }
+}
